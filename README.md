@@ -1,6 +1,6 @@
 ## About
 
-https://babylonet.github.io/#about
+https://babylonet.github.io/#about-section
 ```sh
 inital release = Dec 27, 2020
 ```
