@@ -1,15 +1,9 @@
 ## About
 
+https://babylonet.github.io/#about
 ```sh
-https://Babylonet.github.io
-
 inital release = Dec 27, 2020
-
-For more
-https://github.com/abdimk/project-babylon
-
-
 ```
-
-
+<b>For more</b>
+<h3>https://github.com/abdimk/project-babylon</h3>
 
